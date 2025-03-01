@@ -16,9 +16,9 @@ I'm a **MERN Stack Developer** with over **3 years of experience** in building f
 
 ### 🛠️ Tech Stack
 
-**Frontend:** React Native, React.js, Next.js, Tailwind CSS, Redux, HTML5, CSS3, JavaScript (ES6+), Typescript
+**Frontend:** React Native, React.js, Next.js, Tailwind CSS, Redux, HTML5, CSS3, JavaScript (ES6+), TypeScript
 
-**Backend:** Firebase, Node.js, Express.js, Supabase, MongoDB, MySQL
+**Backend:** Firebase, Node.js, Express.js, Supabase, MongoDB, MySQL, Strapi
 
 **Tools & DevOps:** Git, GitHub, Postman, VS Code, Vercel
 
